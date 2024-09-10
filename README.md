@@ -27,5 +27,7 @@
 
 <img src="wx.png" width="300"  height="auto"/>
 
+饿了么公益拉库地址:ql repo https://github.com/DinDing1/elm.git "^ele" "" "common|ql|sendNotify|ql1|sendNotify1|sendNotify1|rsa_encrypt|notify|"
+
 
 
